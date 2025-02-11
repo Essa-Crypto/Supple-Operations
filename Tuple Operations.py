@@ -14,5 +14,3 @@ _slice = tuplex[3:5]
 print(_slice)
 _slice = tuplex[:6]
 print(_slice)
-
-
